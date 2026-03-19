@@ -25,3 +25,4 @@ echo "========================================="
 echo "   Deployment Successful!"
 echo "   App running at http://localhost:9090"
 echo "========================================="
+echo
